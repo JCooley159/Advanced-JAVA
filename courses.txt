@@ -1,0 +1,40 @@
+History
+American History
+1
+true
+recorded
+History
+World History
+2
+false
+in person
+History
+Brazil History
+3
+false
+on-line
+Math
+Math Modeling
+5
+false
+in-person
+Math
+Differential Equations
+6
+true
+online
+English
+Literature
+7
+sophomore
+reading
+English
+Composition I
+8
+freshman
+writing
+English
+American Lit
+9
+junior
+both
